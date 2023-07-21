@@ -14,6 +14,8 @@ Directory structure of the web app is as follows:
 
 - Install Node JS, MongoDB in the machine.
 - Move inside backend directory: `cd backend`
+- Go to /routes/uploadRoutes.js Enter your cloudinary keys.
+- Go to /config/keys.js   Enter your Database password. 
 - Install dependencies in backend directory: `npm install`
 - Start express server: `npm start`
 - Backend server will start on port 4444.
